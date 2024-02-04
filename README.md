@@ -9,10 +9,10 @@ Welcome to the Quiz App! This is a simple web-based application where users can 
 
 ## Project Structure
 The project structure is as follows:
-   ├── index.html        # HTML file for the structure of the quiz app
-   ├── styles.css        # CSS file for styling the quiz app
-   ├── script.js         # JavaScript file for the logic of the quiz app
-   └── README.md         # Documentation for the quiz app
++   ├── index.html        # HTML file for the structure of the quiz app
++   ├── styles.css        # CSS file for styling the quiz app
++   ├── script.js         # JavaScript file for the logic of the quiz app
++   └── README.md         # Documentation for the quiz app
 
 ## Technologies Used
 + HTML
